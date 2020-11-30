@@ -10,7 +10,7 @@ Animal.destroy_all
 Animal.create(name: "Blue Whales",image: "https://th.bing.com/th/id/OIP.ME295uUdqtTjw7ZwJ3frlwHaD4?w=298&h=180&c=7&o=5&dpr=2&pid=1.7", heartrate: 8)
 Animal.create(name: "Elephants",image: "https://th.bing.com/th/id/OIP.3LU41mFZnO9eh7PLV1ThgAHaE7?w=278&h=184&c=7&o=5&dpr=2&pid=1.7", heartrate: 30)
 Animal.create(name: "Horses",image: "https://th.bing.com/th/id/OIP.hRGSpXMHkMG2ADxKWeZhZAHaEK?w=312&h=180&c=7&o=5&dpr=2&pid=1.7", heartrate: 36)
-Animal.create(name: "Humans",image: "https://i.imgflip.com/39osmx.png", heartrate: 75)
+Animal.create(name: "Kombucha Girl",image: "https://i.imgflip.com/39osmx.png", heartrate: 75)
 Animal.create(name: "Big Dogs",image: "https://th.bing.com/th/id/OIP.tSLWAqhEIu_mwWFikxVtcwHaEK?w=316&h=180&c=7&o=5&dpr=2&pid=1.7", heartrate: 80)
 Animal.create(name: "Small Dogs",image: "https://th.bing.com/th/id/OIP.kb7kDexw-WoUxYKR3aFa-gHaE8?w=245&h=180&c=7&o=5&dpr=2&pid=1.7", heartrate: 120)
 Animal.create(name: "Giraffes",image: "https://th.bing.com/th/id/OIP.RmfDzrBrKJq-VFSOWpaIfQHaFS?w=275&h=196&c=7&o=5&dpr=2&pid=1.7", heartrate: 150)
